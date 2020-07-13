@@ -31,5 +31,36 @@ Lista de tarefas:
 - [ ] Tarefa 3
 - [ ] Tarefa 4
 
-[Hiperlink](https://github.com/leandromarson)\
+[Hiperlink](https://github.com/leandromarson)  
+
+![Imagem](/Desert.jpg)  
+
+Tabelas:  
+Numero | Nome | Nota
+---|---|---
+1|Josicrelvis|5,9
+2|Danifromber|9,3
+3|Rosimarilinda|2,3
+
+Fim Tabela
+
+Comandos:
+`document.getElementById()`
+
+Trechos de código:
+```
+num = int(input('Digite um valor:')
+if(num % 2 = 0):
+    print('Par')
+else:
+    print('Impar')
+    
+```
+
+Emogis:
+:pouting_man:
+
+[Emogipedia](https://emojipedia.org/)
+
+>Quote!!
 
