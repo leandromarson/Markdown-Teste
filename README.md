@@ -49,11 +49,11 @@ Comandos:
 
 Trechos de código:
 ```
-num = int(input('Digite um valor:')
+num = int(input('Digite um valor:'))
 if(num % 2 = 0):
-    print('Par')
+    print(f'{num} é Par')
 else:
-    print('Impar')
+    print(f'{num} é Impar')
     
 ```
 
